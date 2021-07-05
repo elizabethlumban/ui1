@@ -21,7 +21,7 @@ export const URList = () => {
   //window.location.href = originalUrl;
   setTimeout(() => {
     window.location.href = originalUrl;
-  }, 5000);
+  }, 3000);
 
   return <div></div>;
 };
