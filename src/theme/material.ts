@@ -181,7 +181,7 @@ export const defaultTheme = createMuiTheme({
       },
     },
 
-    MuiGridListTileBar: {
+    /*     MuiGridListTileBar: {
       root: {
         background: "linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%, rgba(0,0,0,0) 100%)",
         alignItems: "flex-end",
@@ -192,7 +192,7 @@ export const defaultTheme = createMuiTheme({
         lineHeight: "1.25rem",
         paddingBottom: "0.5rem",
       },
-    },
+    }, */
     MuiListSubheader: {
       root: { color: brandRed.toString(), fontFamily: "Roboto Condensed Bold", fontSize: "1rem", lineHeight: "2.5rem" },
       gutters: {
